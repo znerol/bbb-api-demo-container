@@ -19,3 +19,9 @@ podman run -it --rm --publish 8080:8080 \
 ```
 
 Open the HTML5 demo in your browser: http://localhost:8080/demo/demoHTML5.jsp
+
+License
+-------
+
+* The content of this repository is licensed under GPL 3 or later.
+* BigBlueButton is licensed under LGPL 3.
